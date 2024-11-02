@@ -1,0 +1,6 @@
+flask
+requests
+freqtrade
+openai
+anthropic  # For Claude's API
+
